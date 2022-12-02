@@ -65,3 +65,19 @@ Y los estilos `.css`:
 | Operadores: map, reduce y filter (map y filter en PlatziWordle) | `17-map-filter-PlatziWordle`  | Reemplazamos código vanilla con map y filter         |
 | Operadores: takeUntil (takeUntil en PlatziWordle)               | `23-takeUntil-PlatziWordle`   | Empleamos takeUntil                                  |
 | PlatziWordle con opción de reinicio                             | `28-reinicio-PlatziWordle`    | Habilitamos la opción para reiniciar en PlatziWordle |
+
+
+## Code Helpers
+
+<details><summary>Bash Commands</summary>
+
+```bash
+# Git
+$ git tag
+$ git tag -a v1.0.0 -m "module 1"
+$ git push --tags
+$ git remote -v
+
+```
+
+</details><br/>
